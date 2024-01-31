@@ -1,0 +1,78 @@
+/* FundAllocationPage.css */
+.scenary {
+  background-image: url("../images/scenary.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; /* Center the background image */
+  height: 100vh; /* Set the height to 100% of the viewport height */
+  margin: 0; /* Remove default margin from the body */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white; /* Set text color to white or adjust as needed */
+}
+
+/* Add any additional styling for your content within the .scenery container */
+
+.header-section {
+  text-align: center;
+}
+
+.subtitle {
+  color: #555;
+  font-size: 16px;
+}
+
+.allocation-form {
+  margin-top: 20px;
+}
+
+.allocation-item {
+  margin-bottom: 15px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.total-allocation {
+  margin-top: 20px;
+}
+
+.additional-info {
+  margin-top: 30px;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+.h3 {
+  color: #333;
+  font-size: 18px;
+}
+
+.p{
+  color:black;
+}
+
+/* FundAllocationPage.css */
+
+.fund-allocation-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: url("../images/fund.jpg") center/cover no-repeat; /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* ... (rest of the styles remain unchanged) */
